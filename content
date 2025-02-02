@@ -1,9 +1,0 @@
-3D_Models/
-  Raw_Data/       # 存放无人机原始数据
-  AI_Models/      # AI生成的初版模型（暂空）
-  Manual_Models/  # 人工优化模型（暂空）
-UE_Project/
-  Content/        # UE资源目录（暂空）
-Documents/
-  Meeting_Notes/  # 会议记录
-  Requirements.md # 需求文档
