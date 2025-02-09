@@ -1,0 +1,3 @@
+[submodule "UEAssets"]
+	path = UEAssets
+	url = https://github.com/wings-of-liberty-zdy/SRTP-ue-project.git
